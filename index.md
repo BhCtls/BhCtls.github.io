@@ -72,4 +72,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### [My first Blog](https://github.com/BhCtls/BhCtls.github.io/edit/main/firstblog.docx)
 
-[三年前秋叶原回忆](https://github.com/BhCtls/BhCtls.github.io/akibarecall.md)
+[三年前秋叶原回忆](https://github.com/BhCtls/BhCtls.github.io/edit/main/akibarecall.md)
