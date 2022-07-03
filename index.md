@@ -4,7 +4,39 @@ You can use the [editor on GitHub](https://github.com/BhCtls/BhCtls.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-##Wanna to say something to you
+## I really Wanna to say something to you
+
+Starry Colors
+
+光舞う 夜空の向こうへ，
+繋ぐ声 導く星のように，
+降りしきる，
+始まりの予感が，
+見上げるだけだった，
+ちっぽけな願いを，
+照らす，
+未完成な，
+未来を詰め込んだら，
+上手な歩き方は，
+わからないけど，
+それでも、と，
+進みはじめた自分を，
+後悔したくないんだ，
+光舞う 夜空の向こうへ，
+繋ぐ声 導く星のように，
+降りしきる，
+始まりの予感が，
+見上げるだけだった，
+ちっぽけな願いを，
+照らす，
+光舞う 夜空の向こうは，
+目も眩むほど，
+きらめく色に，
+染まり合う，
+確かに響く声，
+迷ってばかりだった，
+瞳はまっすぐに，
+変わらない明日見つめてる。
 
 ### Markdown
 
