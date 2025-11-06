@@ -40,10 +40,18 @@ jobs:
       #   env:
       #     CI: true
 
+      - name: Verify dist contents
+        run: |
+          echo "Contents of dist directory:"
+          ls -la dist/
+          echo "Checking for index.html:"
+          test -f dist/index.html && echo "✓ index.html exists" || echo "✗ index.html missing"
+          test -f dist/CNAME && echo "✓ CNAME exists" || echo "✗ CNAME missing"
+
       - name: Upload dist artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
